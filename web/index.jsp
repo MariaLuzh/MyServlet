@@ -20,7 +20,7 @@
   </form>
   <% } else {   %>
   <h1> You are logged in as <%= login %></h1>
-  <br>Click that link to <a href="login?a=exit">logout</a>
+  <br>Click this link to <a href="login?a=exit">logout</a>
   <% } %>
   </body>
 </html>
